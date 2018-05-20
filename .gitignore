@@ -1,0 +1,18 @@
+# comentário
+.idea/
+nbproject/
+
+# comentário
+vendor/
+
+# comentário
+._*
+.vagrant
+.~lock.*
+.buildpath
+.DS_Store
+.project
+.settings
+
+# comentário
+composer.phar
